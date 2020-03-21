@@ -1,0 +1,30 @@
+title:          Crowdfight COVID-19
+description:    ''
+url:            https://crowdfightcovid19.org
+
+encoding: utf-8
+markdown: kramdown
+permalink: pretty
+permalink: /:title/
+
+collections:
+  projects: # Set the _projects directory as a collection
+    output: true
+
+navigation:
+    - title: For COVID-19 researchers
+      url: covid19researchers/index.html
+
+    - title: For volunteers
+      url: volunteers/index.html
+
+    - title: Projects
+      url: projects/index.html
+
+    - title: Contact
+      url: contact/index.html
+
+    - title: Twitter
+      url: https://twitter.com/Crowdfightcovi1
+      is-external: true
+
