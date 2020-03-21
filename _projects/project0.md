@@ -7,6 +7,8 @@ description: Short description of the project here.
 
 ## About this project
 
+<img class="rounded-circle" src="logo_project.jpg">
+
 This projec is vital in the fight against COVID-19.
 
 
