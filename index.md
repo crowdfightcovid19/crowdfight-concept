@@ -8,10 +8,10 @@ layout: default
 
 <div class="row row-cols-1 row-cols-md-2">
     <div class="col my-4 d-flex justify-content-center">
-        <a type="button" href="{{ site.baseurl }}/covid19researchers/index.html" class="btn btn-danger px-4">I am a researcher working on COVID-19</a>
+        <a role="button" href="{{ site.baseurl }}/covid19researchers/index.html" class="btn btn-danger px-4">I am a researcher working on COVID-19</a>
     </div>
     <div class="col my-4 d-flex justify-content-center">
-        <a type="button" href="{{ site.baseurl }}/volunteer/index.html" class="btn btn-danger px-4">I am not currently working on COVID-19</a>
+        <a role="button" href="{{ site.baseurl }}/volunteer/index.html" class="btn btn-danger px-4">I am not currently working on COVID-19</a>
     </div>
 </div>
 
