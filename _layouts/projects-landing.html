@@ -11,7 +11,7 @@ layout: default
         <div class="card-body">
             <h2 class="card-title"><a href="{{ site.baseurl }}/projects/{{ project.slug }}">{{ project.name }}</a></h2>
             <p class="card-text"><b>Main researcher:</b> {{ project.main-researcher }}</p>
-            <p class="card-text">{{ project.content | markdownify }}</p>
+            <p class="card-text">{{ project.description }}</p>
         </div>
     </div>
 </div>
