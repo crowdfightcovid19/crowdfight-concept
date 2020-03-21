@@ -25,7 +25,7 @@ navigation:
     - title: Contact
       url: contact/index.html
 
-    - title: Twitter
-      url: https://twitter.com/Crowdfightcovi1
-      is-external: true
+    # - title: Twitter
+    #   url: https://twitter.com/Crowdfightcovi1
+    #   is-external: true
 

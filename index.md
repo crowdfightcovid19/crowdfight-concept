@@ -6,11 +6,11 @@ layout: default
 
 <p>An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.</p>
 
-<div class="row my-3">
-    <div class="col">
+<div class="row row-cols-1 row-cols-md-2">
+    <div class="col my-4 d-flex justify-content-center">
         <button type="button" class="btn btn-danger px-4">I am a researcher working on COVID-19</button>
     </div>
-    <div class="col">
+    <div class="col my-4 d-flex justify-content-center">
         <button type="button" class="btn btn-danger px-4">I am not currently working on COVID-19</button>
     </div>
 </div>
