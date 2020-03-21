@@ -14,6 +14,6 @@ State the task briefly, and with technical jargon if needed. We'll find the righ
 
 We'll respond within hours. We'll try to get simple tasks done within hours.
 
-If you want to attach any files to your query, send an email to crowdfightcovid19@gmail.com instead of (or in addition to) filling this form.
+If you want to attach any files to your query, send an email to [crowdfightcovid19@gmail.com](mailto:crowdfightcovid19@gmail.com) instead of (or in addition to) filling this form.
 
 
