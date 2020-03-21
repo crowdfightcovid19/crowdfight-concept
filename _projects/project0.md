@@ -9,7 +9,7 @@ description: Short description of the project here.
 
 <img class="rounded-circle" src="logo_project.jpg">
 
-This projec is vital in the fight against COVID-19.
+This projec is vital in the fight against COVID-19. This project is very important!
 
 
 ## How can you contribute
