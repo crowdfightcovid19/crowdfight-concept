@@ -8,10 +8,10 @@ layout: default
 
 <div class="row row-cols-1 row-cols-md-2">
     <div class="col my-4 d-flex justify-content-center">
-        <button type="button" class="btn btn-danger px-4">I am a researcher working on COVID-19</button>
+        <a type="button" href="{{ site.baseurl }}/covid19researchers/index.html" class="btn btn-danger px-4">I am a researcher working on COVID-19</a>
     </div>
     <div class="col my-4 d-flex justify-content-center">
-        <button type="button" class="btn btn-danger px-4">I am not currently working on COVID-19</button>
+        <a type="button" href="{{ site.baseurl }}/volunteer/index.html" class="btn btn-danger px-4">I am not currently working on COVID-19</a>
     </div>
 </div>
 
@@ -24,3 +24,5 @@ layout: default
 **Our proposal:** This is a service for COVID-19 researchers. They only need to state a wish or a task, which can go from a simple time-intensive task to be performed (e.g. transcribe data, manually annotate images), to answering a technical question which is beyond their expertise, or to setting up a collaboration. They only need to explain their request in a few lines. Then, another scientist makes the effort of understanding that request and making it reality.
 
 Of course, everything is for free. This platform works thanks to scientists who donate their time and skill in these times of emergency.
+
+<img class="img-fluid" src="{{ site.baseurl }}/assets/img/system_design.png">

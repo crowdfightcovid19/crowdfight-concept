@@ -1,11 +1,12 @@
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<!--<nav class="navbar navbar-expand-lg navbar-light bg-light">-->
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <a class="navbar-brand" href="{{ site.baseurl }}/">Crowdfight COVID-19</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-        <ul class="navbar-nav mr-auto">
+        <ul class="navbar-nav w-100">
             {% for item in site.navigation %}
             <li class="nav-item active">
                 {% if item.is-external %}
@@ -16,7 +17,7 @@
             </li>
             {% endfor %}
 
-            <li class="nav-item active ml-lg-2 d-flex align-items-center">
+            <li class="nav-item active ml-lg-auto d-flex align-items-center">
                 <a href="https://twitter.com/Crowdfightcovi1?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @Crowdfightcovi1</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
             </li>
         </ul>
