@@ -4,7 +4,7 @@ layout: default
 
 # COVID-19 researchers
 
-### Tell us what you need
+## Tell us what you need
 
 If you are involved in COVID-19 research and you want us to do something for you, just tell us what you need. This can go from a simple mechanical task to remove workload from your team to a full project for which you lack expertise (more info).
 
