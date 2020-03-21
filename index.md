@@ -4,7 +4,7 @@ layout: default
 
 # Crowdfight COVID-2019
 
-<p>An initiative from the scientific community to put all available resources at the service of the fight against COVID-19.</p>
+<p>An initiative from the scientific community to put all available resources at the service of the fight against COVID-19. Join us! </p>
 
 <div class="row row-cols-1 row-cols-md-2">
     <div class="col my-4 d-flex justify-content-center">
