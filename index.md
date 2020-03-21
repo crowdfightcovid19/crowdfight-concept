@@ -11,7 +11,7 @@ layout: default
         <a role="button" href="{{ site.baseurl }}/covid19researchers/index.html" class="btn btn-danger px-4">I am a researcher working on COVID-19</a>
     </div>
     <div class="col my-4 d-flex justify-content-center">
-        <a role="button" href="{{ site.baseurl }}/volunteer/index.html" class="btn btn-danger px-4">I am not currently working on COVID-19</a>
+        <a role="button" href="{{ site.baseurl }}/volunteers/index.html" class="btn btn-danger px-4">I am not currently working on COVID-19</a>
     </div>
 </div>
 
