@@ -1,4 +1,6 @@
 # Crowdfight COVID-19
 
-[Visit demo website](https://santigz.github.io/crowdfight-concept/)
+The real website is https://crowdfightcovid19.org
+
+This is a test
 
